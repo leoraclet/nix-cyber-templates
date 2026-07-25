@@ -20,7 +20,6 @@
           buildInputs = with pkgs; [
             hashcat
             hashcat-utils
-            hashpump
             hash_extender
             fcrackzip
             john
@@ -28,7 +27,7 @@
             sage
             veracrypt
             truecrack
-            pdfcrack
+            pdfrip
             xortool
             magma
             msolve
