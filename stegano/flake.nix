@@ -18,7 +18,6 @@
       {
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
-            python313Packages.opencv4Full
             binwalk
             audacity
             sonic-visualiser
