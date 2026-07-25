@@ -211,3 +211,7 @@ The sections below list what each template includes. In all cases, you're free t
 - [`gobuster`](https://github.com/OJ/gobuster) - Directory and file brute-forcer
 - [`wpscan`](https://wpscan.com/) - WordPress security scanner
 - [`jwt-hack`](https://github.com/hahwul/jwt-hack) - JWT security testing tool
+
+## Resources
+
+- Inspired on [this repo](https://github.com/the-nix-way/dev-templates)
