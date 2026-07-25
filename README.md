@@ -17,13 +17,13 @@ Once your preferred template has been initialized, you can use the provided shel
 
 ## Available templates
 
-| Category of Tools          | Template                      |
-| :------------------------: | :---------------------------: |
-| **Binary exploitation**    | [`pwn`](./pwn/)               |
-| **Cryptanalysis**          | [`crypto`](./crypto/)         |
-| **Forensic**               | [`forensic`](./forensic/)     |
-| **Hardware**               | [`hardware`](./hardware/)     |
-| **Network**                | [`network`](./network/)       |
-| **Reverse engineering**    | [`reverse`](./reverse)        |
-| **Steganalysis**           | [`stegano`](./stegano/)       |
-| **Web**                    | [`web`](./web/)               |
+| Category of Tools        | Template                      |
+| :----------------------- | :---------------------------- |
+| *Binary exploitation*    | [`pwn`](./pwn/)               |
+| *Cryptanalysis*          | [`crypto`](./crypto/)         |
+| *Forensic*               | [`forensic`](./forensic/)     |
+| *Hardware*               | [`hardware`](./hardware/)     |
+| *Network*                | [`network`](./network/)       |
+| *Reverse engineering*    | [`reverse`](./reverse)        |
+| *Steganalysis*           | [`stegano`](./stegano/)       |
+| *Web*                    | [`web`](./web/)               |
