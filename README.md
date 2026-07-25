@@ -91,22 +91,22 @@ The sections below list what each template includes. In all cases, you're free t
 
 ### [`hardware`](./hardware/)
 
-- [python313Packages.sigrok](https://sigrok.org/wiki/Python_bindings) - Python bindings for sigrok
-- [pulseview](https://sigrok.org/wiki/PulseView) - Sigrok GUI
-- [sigrok-cli](https://sigrok.org/wiki/Sigrok-cli) - Sigrok command-line interface
-- [libsigrok](https://sigrok.org/wiki/Libsigrok) - Signal analysis library
-- [libsigrokdecode](https://sigrok.org/wiki/Libsigrokdecode) - Protocol decoding library
-- [binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware analysis tool
-- [sigdigger](https://github.com/batchdrake/sigdigger) - Signal analysis tool
-- [urh](https://github.com/jopohl/urh) - Universal Radio Hacker
-- [qemu](https://www.qemu.org/) - Machine emulator
-- [gnuradio](https://www.gnuradio.org/) - Software-defined radio framework
-- [inspectrum](https://github.com/miek/inspectrum) - Signal analyzer
-- [qemu-utils](https://www.qemu.org/docs/master/system/invocation.html) - QEMU utilities
-- [qemu-user](https://www.qemu.org/docs/master/user/main.html) - QEMU user-mode emulation
-- [gdb](https://www.gnu.org/software/gdb/) - GNU Debugger
-- [imhex](https://imhex.werwolv.net/) - Hex editor
-- [saleae-logic-2](https://www.saleae.com/downloads) - Saleae Logic 2 software
+- [`sigrok`](https://sigrok.org/wiki/Python_bindings) - Python bindings for sigrok
+- [`pulseview`](https://sigrok.org/wiki/PulseView) - Sigrok GUI
+- [`sigrok-cli`](https://sigrok.org/wiki/Sigrok-cli) - Sigrok command-line interface
+- [`libsigrok`](https://sigrok.org/wiki/Libsigrok) - Signal analysis library
+- [`libsigrokdecode`](https://sigrok.org/wiki/Libsigrokdecode) - Protocol decoding library
+- [`binwalk`](https://github.com/ReFirmLabs/binwalk) - Firmware analysis tool
+- [`sigdigger`](https://github.com/batchdrake/sigdigger) - Signal analysis tool
+- [`urh`](https://github.com/jopohl/urh) - Universal Radio Hacker
+- [`qemu`](https://www.qemu.org/) - Machine emulator
+- [`gnuradio`](https://www.gnuradio.org/) - Software-defined radio framework
+- [`inspectrum`](https://github.com/miek/inspectrum) - Signal analyzer
+- [`qemu-utils`](https://www.qemu.org/docs/master/system/invocation.html) - QEMU utilities
+- [`qemu-user`](https://www.qemu.org/docs/master/user/main.html) - QEMU user-mode emulation
+- [`gdb`](https://www.gnu.org/software/gdb/) - GNU Debugger
+- [`imhex`](https://imhex.werwolv.net/) - Hex editor
+- [`saleae-logic-2`](https://www.saleae.com/downloads) - Saleae Logic 2 software
 
 ### [`network`](./network/)
 
@@ -130,6 +130,27 @@ The sections below list what each template includes. In all cases, you're free t
 - [`proxychains-ng`](https://github.com/rofl0r/proxychains-ng) - Proxy chains
 
 ### [`reverse`](./reverse)
+
+- [`frida-python`](https://frida.re/) - Frida Python bindings
+- [`pwntools`](https://github.com/Gallopsled/pwntools) - Binary exploitation library
+- [`angrop`](https://github.com/angr/angrop) - Angr + pwntools integration
+- [`distorm3`](https://github.com/gdabah/distorm) - Disassembler library
+- [`checksec`](https://github.com/slimm609/checksec) - Binary security checker
+- [`binwalk`](https://github.com/ReFirmLabs/binwalk) - Firmware analysis tool
+- [`hopper`](https://www.hopperapp.com/) - Disassembler and decompiler
+- [`binaryninja-free`](https://binary.ninja/) - Binary analysis platform
+- [`ghidra-bin`](https://ghidra-sre.org/) - Reverse engineering tool
+- [`ida-free`](https://hex-rays.com/ida-free/) - IDA Free disassembler
+- [`cutter`](https://cutter.re/) - Reverse engineering platform
+- [`imhex`](https://imhex.werwolv.net/) - Hex editor
+- [`jadx`](https://github.com/skylot/jadx) - Dex to Java decompiler
+- [`apk-tools`](https://ibotpeaches.github.io/Apktool/) - APK manipulation tool
+- [`frida-tools`](https://frida.re/) - Frida tools
+- [`pe-bear`](https://github.com/hasherezade/pe-bear) - PE file analyzer
+- [`radare2`](https://www.radare.org/) - Reverse engineering framework
+- [`rizin`](https://rizin.re/) - Reverse engineering framework
+- [`dex2jar`](https://github.com/pxb1988/dex2jar) - Dex to Jar converter
+- [`quark-engine`](https://github.com/quark-engine/quark-engine) - Android malware analysis
 
 ### [`stegano`](./stegano/)
 
