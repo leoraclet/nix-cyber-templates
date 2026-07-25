@@ -95,3 +95,17 @@ The sections below list what each template includes. In all cases, you're free t
 - [`snow`](https://www.darkside.com.au/snow/) - Whitespace steganography tool
 
 ### [`web`](./web/)
+
+- [`zap`](https://www.zaproxy.org/) - OWASP Zed Attack Proxy
+- [`caido`](https://caido.io/) - Web security testing suite
+- [`burpsuite`](https://portswigger.net/burp) - Web vulnerability scanner
+- [`httpx`](https://github.com/projectdiscovery/httpx) - Fast HTTP toolkit
+- [`ffuf`](https://github.com/ffuf/ffuf) - Fast web fuzzer
+- [`webanalyze`](https://github.com/rverton/webanalyze) - Web application fingerprinting
+- [`assetfinder`](https://github.com/tomnomnom/assetfinder) - Domain and subdomain finder
+- [`subfinder`](https://github.com/projectdiscovery/subfinder) - Subdomain discovery tool
+- [`sqlmap`](https://sqlmap.org/) - Automatic SQL injection tool
+- [`whatweb`](https://github.com/urbanadventurer/whatweb) - Website fingerprinting
+- [`gobuster`](https://github.com/OJ/gobuster) - Directory and file brute-forcer
+- [`wpscan`](https://wpscan.com/) - WordPress security scanner
+- [`jwt-hack`](https://github.com/hahwul/jwt-hack) - JWT security testing tool
