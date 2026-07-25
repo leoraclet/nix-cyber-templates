@@ -110,6 +110,25 @@ The sections below list what each template includes. In all cases, you're free t
 
 ### [`network`](./network/)
 
+- [`impacket`](https://github.com/fortra/impacket) - Network protocol library
+- [`scapy`](https://scapy.net/) - Interactive packet manipulation
+- [`nmap`](https://nmap.org/) - Network scanner
+- [`assetfinder`](https://github.com/tomnomnom/assetfinder) - Domain and subdomain finder
+- [`subfinder`](https://github.com/projectdiscovery/subfinder) - Subdomain discovery tool
+- [`wireshark`](https://www.wireshark.org/) - Network protocol analyzer
+- [`tshark`](https://www.wireshark.org/docs/man-pages/tshark.html) - Wireshark CLI
+- [`tor`](https://www.torproject.org/) - Anonymity network
+- [`torsocks`](https://gitlab.torproject.org/tpo/core/torsocks/) - Tor SOCKS wrapper
+- [`wifite2`](https://github.com/derv82/wifite2) - WiFi auditing tool
+- [`aircrack-ng`](https://www.aircrack-ng.org/) - WiFi security auditing
+- [`airgeddon`](https://github.com/v1s1t0r1sh3r3/airgeddon) - WiFi security auditing framework
+- [`macchanger`](https://github.com/alobbs/macchanger) - MAC address changer
+- [`amass`](https://github.com/OWASP/Amass) - Network mapping
+- [`bettercap`](https://www.bettercap.org/) - Network attack tool
+- [`ettercap`](https://www.ettercap-project.org/) - Network security tool
+- [`dnsmasq`](https://thekelleys.org.uk/dnsmasq/doc.html) - DNS/DHCP server
+- [`proxychains-ng`](https://github.com/rofl0r/proxychains-ng) - Proxy chains
+
 ### [`reverse`](./reverse)
 
 ### [`stegano`](./stegano/)
