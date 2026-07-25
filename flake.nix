@@ -35,6 +35,10 @@
         path = ./web;
         description = "Web hacking environment";
       };
+      osint = {
+        path = ./osint;
+        description = "OSINT environment";
+      };
     };
   };
 }

@@ -128,6 +128,20 @@ The sections below list what each template includes. In all cases, you're free t
 - [`dnsmasq`](https://thekelleys.org.uk/dnsmasq/doc.html) - DNS/DHCP server
 - [`proxychains-ng`](https://github.com/rofl0r/proxychains-ng) - Proxy chains
 
+### [`osint`](./osint/)
+
+- [`shodan`](https://github.com/achillean/shodan-python) - Shodan API library
+- [`social-engineer-toolkit`](https://github.com/trustedsec/social-engineer-toolkit) - Social engineering toolkit
+- [`theharvester`](https://github.com/laramies/theHarvester) - Email and subdomain finder
+- [`sherlock`](https://github.com/sherlock-project/sherlock) - Username finder
+- [`socialscan`](https://github.com/iojw/socialscan) - Social media username checker
+- [`maltego`](https://www.maltego.com/) - OSINT and forensics tool
+- [`octosuite`](https://github.com/bellingcat/octosuite) - GitHub OSINT tool
+- [`ghdorker`](https://github.com/obheda12/GitDorker) - GitHub dorking tool
+- [`qgis`](https://qgis.org/) - Geographic Information System
+- [`checkpwn`](https://github.com/brycx/checkpwn) - Have I Been Pwned checker
+- [`metabigor`](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
+
 ### [`pwn`](./pwn/)
 
 - [`pwntools`](https://github.com/Gallopsled/pwntools) - Binary exploitation library
