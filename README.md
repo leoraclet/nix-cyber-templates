@@ -91,6 +91,23 @@ The sections below list what each template includes. In all cases, you're free t
 
 ### [`hardware`](./hardware/)
 
+- [python313Packages.sigrok](https://sigrok.org/wiki/Python_bindings) - Python bindings for sigrok
+- [pulseview](https://sigrok.org/wiki/PulseView) - Sigrok GUI
+- [sigrok-cli](https://sigrok.org/wiki/Sigrok-cli) - Sigrok command-line interface
+- [libsigrok](https://sigrok.org/wiki/Libsigrok) - Signal analysis library
+- [libsigrokdecode](https://sigrok.org/wiki/Libsigrokdecode) - Protocol decoding library
+- [binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware analysis tool
+- [sigdigger](https://github.com/batchdrake/sigdigger) - Signal analysis tool
+- [urh](https://github.com/jopohl/urh) - Universal Radio Hacker
+- [qemu](https://www.qemu.org/) - Machine emulator
+- [gnuradio](https://www.gnuradio.org/) - Software-defined radio framework
+- [inspectrum](https://github.com/miek/inspectrum) - Signal analyzer
+- [qemu-utils](https://www.qemu.org/docs/master/system/invocation.html) - QEMU utilities
+- [qemu-user](https://www.qemu.org/docs/master/user/main.html) - QEMU user-mode emulation
+- [gdb](https://www.gnu.org/software/gdb/) - GNU Debugger
+- [imhex](https://imhex.werwolv.net/) - Hex editor
+- [saleae-logic-2](https://www.saleae.com/downloads) - Saleae Logic 2 software
+
 ### [`network`](./network/)
 
 ### [`reverse`](./reverse)
