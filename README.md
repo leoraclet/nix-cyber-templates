@@ -79,19 +79,19 @@ The sections below list what each template includes. In all cases, you're free t
 
 ### [`stegano`](./stegano/)
 
-- [binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware analysis tool
-- [audacity](https://www.audacityteam.org/) - Audio editor and recorder
-- [sonic-visualiser](https://www.sonicvisualiser.org/) - Audio visualization and analysis
-- [mediainfo](https://mediaarea.net/en/MediaInfo) - Media file analysis
-- [exiftool](https://exiftool.org/) - EXIF metadata editor
-- [imhex](https://imhex.werwolv.net/) - Hex editor
-- [steghide](https://steghide.sourceforge.net/) - Steganography tool
-- [stegseek](https://github.com/RickdeJager/stegseek) - Faster steghide alternative
-- [stegsolve](https://www.wechall.net/forum/show/thread/527/Stegsolve_1.3/) - Steganography analysis tool
-- [zsteg](https://github.com/zed-0xff/zsteg) - PNG/BMP steganography detection
-- [outguess](https://github.com/resurrecting-open-source-projects/outguess) - Steganography tool
-- [pngcheck](https://www.libpng.org/pub/png/apps/pngcheck.html) - PNG file verification
-- [recoverjpeg](https://rfc1149.net/devel/recoverjpeg.html) - JPEG recovery from files
-- [snow](https://www.darkside.com.au/snow/) - Whitespace steganography tool
+- [`binwalk`](https://github.com/ReFirmLabs/binwalk) - Firmware analysis tool
+- [`audacity`](https://www.audacityteam.org/) - Audio editor and recorder
+- [`sonic-visualiser`](https://www.sonicvisualiser.org/) - Audio visualization and analysis
+- [`mediainfo`](https://mediaarea.net/en/MediaInfo) - Media file analysis
+- [`exiftool`](https://exiftool.org/) - EXIF metadata editor
+- [`imhex`](https://imhex.werwolv.net/) - Hex editor
+- [`steghide`](https://steghide.sourceforge.net/) - Steganography tool
+- [`stegseek`](https://github.com/RickdeJager/stegseek) - Faster steghide alternative
+- [`stegsolve`](https://www.wechall.net/forum/show/thread/527/Stegsolve_1.3/) - Steganography analysis tool
+- [`zsteg`](https://github.com/zed-0xff/zsteg) - PNG/BMP steganography detection
+- [`outguess`](https://github.com/resurrecting-open-source-projects/outguess) - Steganography tool
+- [`pngcheck`](https://www.libpng.org/pub/png/apps/pngcheck.html) - PNG file verification
+- [`recoverjpeg`](https://rfc1149.net/devel/recoverjpeg.html) - JPEG recovery from files
+- [`snow`](https://www.darkside.com.au/snow/) - Whitespace steganography tool
 
 ### [`web`](./web/)
