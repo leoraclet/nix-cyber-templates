@@ -71,6 +71,24 @@ The sections below list what each template includes. In all cases, you're free t
 
 ### [`forensic`](./forensic/)
 
+- [`exiftool`](https://exiftool.org/) - EXIF metadata editor
+- [`safecopy`](https://safecopy.sourceforge.net/) - Data recovery tool
+- [`pngcheck`](https://www.libpng.org/pub/png/apps/pngcheck.html) - PNG file verification
+- [`file`](https://www.darwinsys.com/file/) - File type identification
+- [`networkminer`](https://www.netresec.com/?page=NetworkMiner) - Network forensics analysis tool
+- [`firefox_decrypt`](https://github.com/unode/firefox_decrypt/) - Firefox password decryption
+- [`bulk_extractor`](https://github.com/simsong/bulk_extractor) - Digital forensics tool
+- [`dive`](https://github.com/wagoodman/dive) - Docker image explorer
+- [`foremost`](https://github.com/korczis/foremost) - Forensic file carving
+- [`scalpel`](https://github.com/sleuthkit/scalpel) - File carving tool
+- [`volatility3`](https://github.com/volatilityfoundation/volatility3) - Memory forensics framework
+- [`volatility2-bin`](https://github.com/volatilityfoundation/volatility) - Memory forensics (Volatility 2)
+- [`autopsy`](https://www.autopsy.com/) - Digital forensics platform
+- [`sleuthkit`](https://www.sleuthkit.org/) - Digital forensics toolkit
+- [`testdisk-qt`](https://www.cgsecurity.org/wiki/TestDisk) - Partition recovery (Qt)
+- [`wireshark`](https://www.wireshark.org/) - Network protocol analyzer
+- [`tshark`](https://www.wireshark.org/docs/man-pages/tshark.html) - Wireshark CLI
+
 ### [`hardware`](./hardware/)
 
 ### [`network`](./network/)

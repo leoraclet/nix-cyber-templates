@@ -32,7 +32,6 @@
             volatility2-bin
             autopsy
             sleuthkit
-            testdisk
             testdisk-qt
             wireshark
             tshark
