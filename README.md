@@ -17,16 +17,16 @@ Once your preferred template has been initialized, you can use the provided shel
 
 ## Available templates
 
-| Category of Tools        | Template                      |
-| :----------------------- | :---------------------------- |
-| *Binary exploitation*    | [`pwn`](./pwn/)               |
-| *Cryptanalysis*          | [`crypto`](./crypto/)         |
-| *Forensic*               | [`forensic`](./forensic/)     |
-| *Hardware*               | [`hardware`](./hardware/)     |
-| *Network*                | [`network`](./network/)       |
-| *Reverse engineering*    | [`reverse`](./reverse)        |
-| *Steganalysis*           | [`stegano`](./stegano/)       |
-| *Web*                    | [`web`](./web/)               |
+| Category of Tools        | Template                      | Command                                                           |
+| :----------------------- | :---------------------------- | :---------------------------------------------------------------- |
+| *Binary exploitation*    | [`pwn`](./pwn/)               | `nix flake init -t github:leoraclet/nix-cyber-templates#pwn`      |
+| *Cryptanalysis*          | [`crypto`](./crypto/)         | `nix flake init -t github:leoraclet/nix-cyber-templates#crypto`   |
+| *Forensic*               | [`forensic`](./forensic/)     | `nix flake init -t github:leoraclet/nix-cyber-templates#forensic` |
+| *Hardware*               | [`hardware`](./hardware/)     | `nix flake init -t github:leoraclet/nix-cyber-templates#hardware` |
+| *Network*                | [`network`](./network/)       | `nix flake init -t github:leoraclet/nix-cyber-templates#network`  |
+| *Reverse engineering*    | [`reverse`](./reverse)        | `nix flake init -t github:leoraclet/nix-cyber-templates#reverse`  |
+| *Steganalysis*           | [`stegano`](./stegano/)       | `nix flake init -t github:leoraclet/nix-cyber-templates#stegano`  |
+| *Web*                    | [`web`](./web/)               | `nix flake init -t github:leoraclet/nix-cyber-templates#web`      |
 
 ## Template contents
 
