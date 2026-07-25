@@ -35,8 +35,6 @@ The sections below list what each template includes. In all cases, you're free t
 > [!note]
 > While many hacking tools exist, those environments includes only those I use regularly or have used multiple times.
 
-### [`pwn`](./pwn/)
-
 ### [`crypto`](./crypto/)
 
 - [`hashcat`](https://hashcat.net/hashcat/) - Advanced CPU/GPU password recovery tool
@@ -128,6 +126,34 @@ The sections below list what each template includes. In all cases, you're free t
 - [`ettercap`](https://www.ettercap-project.org/) - Network security tool
 - [`dnsmasq`](https://thekelleys.org.uk/dnsmasq/doc.html) - DNS/DHCP server
 - [`proxychains-ng`](https://github.com/rofl0r/proxychains-ng) - Proxy chains
+
+### [`pwn`](./pwn/)
+
+- [`pwntools`](https://github.com/Gallopsled/pwntools) - Binary exploitation library
+- [`ropper`](https://github.com/sashs/Ropper) - ROP gadget finder
+- [`angrop`](https://github.com/angr/angrop) - Angr + pwntools integration
+- [`z3-solver`](https://github.com/Z3Prover/z3) - Theorem prover and SMT solver
+- [`frida-python`](https://frida.re/) - Frida Python bindings
+- [`unicorn`](https://www.unicorn-engine.org/) - CPU emulator framework
+- [`capstone`](https://www.capstone-engine.org/) - Disassembly framework
+- [`qiling`](https://github.com/qilingframework/qiling) - Advanced binary emulation framework
+- [`angr`](https://github.com/angr/angr) - Binary analysis framework
+- [`miasm`](https://github.com/cea-sec/miasm) - Reverse engineering framework
+- [`ltrace`](https://www.ltrace.org/) - Library call tracer
+- [`strace`](https://strace.io/) - System call tracer
+- [`lldb`](https://lldb.llvm.org/) - LLVM debugger
+- [`nasm`](https://www.nasm.us/) - Netwide assembler
+- [`ropgadget`](https://github.com/JonathanSalwan/ROPgadget) - ROP gadget finder
+- [`frida-tools`](https://frida.re/) - Frida tools
+- [`gdb`](https://www.gnu.org/software/gdb/) - GNU Debugger
+- [`imhex`](https://imhex.werwolv.net/) - Hex editor
+- [`ida-free`](https://hex-rays.com/ida-free/) - IDA Free disassembler
+- [`ghidra-bin`](https://ghidra-sre.org/) - Reverse engineering tool
+- [`binaryninja-free`](https://binary.ninja/) - Binary analysis platform
+- [`gef`](https://github.com/hugsy/gef) - GDB Enhanced Features
+- [`qemu`](https://www.qemu.org/) - Machine emulator
+- [`qemu-utils`](https://www.qemu.org/docs/master/system/invocation.html) - QEMU utilities
+- [`qemu-user`](https://www.qemu.org/docs/master/user/main.html) - QEMU user-mode emulation
 
 ### [`reverse`](./reverse)
 
