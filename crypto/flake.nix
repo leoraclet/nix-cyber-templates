@@ -1,0 +1,56 @@
+{
+  inputs = {
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    flake-utils.url = "github:numtide/flake-utils";
+  };
+
+  outputs =
+    {
+      self,
+      nixpkgs,
+      flake-utils,
+    }:
+    flake-utils.lib.eachDefaultSystem (
+      system:
+      let
+        pkgs = nixpkgs.legacyPackages.${system};
+      in
+      {
+        devShells.default = pkgs.mkShell {
+          buildInputs = with pkgs; [
+            hashcat
+            hashcat-utils
+            hashpump
+            hash_extender
+            fcrackzip
+            john
+            johnny
+            sage
+            veracrypt
+            truecrack
+            pdfcrack
+            xortool
+            magma
+            msolve
+            flatter
+            fplll
+            pari
+            bkcrack
+
+            python313Packages.numpy
+            python313Packages.galois
+            python313Packages.gmpy2
+            python313Packages.pwntools
+            python313Packages.sympy
+            python313Packages.pycryptodome
+            python313Packages.z3-solver
+            python313Packages.cryptography
+            python313Packages.py-ecc
+            python313Packages.cypari
+            python313Packages.mpmath
+            python313Packages.fpylll
+          ];
+        };
+      }
+    );
+}
