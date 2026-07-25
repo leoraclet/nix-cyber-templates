@@ -33,7 +33,8 @@ Once your preferred template has been initialized, you can use the provided shel
 The sections below list what each template includes. In all cases, you're free to add and remove packages as you see fit; the templates are just boilerplate.
 
 > [!note]
-> While many hacking tools exist, those environments includes only those I use regularly or have used multiple times.
+> While many hacking tools exist, those environments includes only those I use regularly or have used multiple times
+> and the most popular ones.
 
 ### [`crypto`](./crypto/)
 
