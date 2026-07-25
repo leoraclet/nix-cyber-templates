@@ -12,18 +12,18 @@ nix flake init -t github:leoraclet/nix-cyber-templates#${ENV}
 
 Once your preferred template has been initialized, you can use the provided shell in two ways:
 
-1. If you have [`nix-direnv`][nix-direnv] installed, you can initialize the environment by running `direnv allow`.
+1. If you have [`nix-direnv`](https://github.com/nix-community/nix-direnv) installed, you can initialize the environment by running `direnv allow`.
 2. If you don't have `nix-direnv` installed, you can run `nix develop` to open up the Nix-defined shell.
 
 ## Available templates
 
-| Category of Tools        | Template                      |
-| :----------------------: | :---------------------------: |
-| [Binary exploitation]    | [`pwn`](./pwn/)               |
-| [Cryptanalysis]          | [`crypto`](./crypto/)         |
-| [Forensic]               | [`forensic`](./forensic/)     |
-| [Hardware]               | [`hardware`](./hardware/)     |
-| [Network]                | [`network`](./network/)       |
-| [Reverse engineering]    | [`reverse`](./reverse)        |
-| [Steganalysis]           | [`stegano`](./stegano/)       |
-| [Web]                    | [`web`](./web/)               |
+| Category of Tools          | Template                      |
+| :------------------------: | :---------------------------: |
+| **Binary exploitation**    | [`pwn`](./pwn/)               |
+| **Cryptanalysis**          | [`crypto`](./crypto/)         |
+| **Forensic**               | [`forensic`](./forensic/)     |
+| **Hardware**               | [`hardware`](./hardware/)     |
+| **Network**                | [`network`](./network/)       |
+| **Reverse engineering**    | [`reverse`](./reverse)        |
+| **Steganalysis**           | [`stegano`](./stegano/)       |
+| **Web**                    | [`web`](./web/)               |
