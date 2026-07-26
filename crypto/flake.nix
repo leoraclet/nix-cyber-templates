@@ -20,6 +20,19 @@
       {
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [
+            python313Packages.numpy
+            python313Packages.galois
+            python313Packages.gmpy2
+            python313Packages.pwntools
+            python313Packages.sympy
+            python313Packages.pycryptodome
+            python313Packages.z3-solver
+            python313Packages.cryptography
+            python313Packages.py-ecc
+            python313Packages.cypari
+            python313Packages.mpmath
+            python313Packages.fpylll
+
             hashcat
             hashcat-utils
             hash_extender
@@ -37,19 +50,6 @@
             fplll
             pari
             bkcrack
-
-            python313Packages.numpy
-            python313Packages.galois
-            python313Packages.gmpy2
-            python313Packages.pwntools
-            python313Packages.sympy
-            python313Packages.pycryptodome
-            python313Packages.z3-solver
-            python313Packages.cryptography
-            python313Packages.py-ecc
-            python313Packages.cypari
-            python313Packages.mpmath
-            python313Packages.fpylll
           ];
         };
       }
