@@ -24,6 +24,7 @@ Once your preferred template has been initialized, you can use the provided shel
 | *Forensic*               | [`forensic`](./forensic/)     | `nix flake init -t github:leoraclet/nix-cyber-templates#forensic` |
 | *Hardware*               | [`hardware`](./hardware/)     | `nix flake init -t github:leoraclet/nix-cyber-templates#hardware` |
 | *Network*                | [`network`](./network/)       | `nix flake init -t github:leoraclet/nix-cyber-templates#network`  |
+| *Pentest*                | [`pentest`](./pentest/)       | `nix flake init -t github:leoraclet/nix-cyber-templates#pentest`  |
 | *OSINT*                  | [`osint`](./osint/)           | `nix flake init -t github:leoraclet/nix-cyber-templates#osint`    |
 | *Reverse engineering*    | [`reverse`](./reverse)        | `nix flake init -t github:leoraclet/nix-cyber-templates#reverse`  |
 | *Steganalysis*           | [`stegano`](./stegano/)       | `nix flake init -t github:leoraclet/nix-cyber-templates#stegano`  |
