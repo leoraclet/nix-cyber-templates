@@ -229,4 +229,7 @@ The sections below list what each template includes. In all cases, you're free t
 
 ## Resources
 
-- Inspired on [this repo](https://github.com/the-nix-way/dev-templates)
+Inspired from :
+
+- [github:the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates)
+- [github:Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix)
