@@ -19,7 +19,7 @@
       in
       {
         devShells.default = pkgs.mkShell {
-          buildInputs = with pkgs; [
+          packages = with pkgs; [
             python313Packages.pwntools
             python313Packages.ropper
             python313Packages.angrop
