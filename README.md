@@ -144,6 +144,11 @@ The sections below list what each template includes. In all cases, you're free t
 - [`checkpwn`](https://github.com/brycx/checkpwn) - Have I Been Pwned checker
 - [`metabigor`](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
 
+### [`pentest`](./pentest/)
+
+> [!warning]
+> TODO ...
+
 ### [`pwn`](./pwn/)
 
 - [`pwntools`](https://github.com/Gallopsled/pwntools) - Binary exploitation library
