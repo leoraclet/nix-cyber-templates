@@ -2,10 +2,18 @@
 
 [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
+## How to initialize a project with a template
+
 To initialize (where `${ENV}` is one of the template names listed in the table below):
 
 ```shell
 nix flake init -t github:leoraclet/nix-cyber-templates#${ENV}
+```
+
+You can also directly create a new project with
+
+```shell
+nix flake new -t github:leoraclet/nix-cyber-templates#${ENV} ${NEW_PROJECT_DIRECTORY}
 ```
 
 ## How to use the templates
