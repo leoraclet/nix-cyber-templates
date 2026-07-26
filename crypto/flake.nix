@@ -50,6 +50,9 @@
             fplll
             pari
             bkcrack
+
+            # padbuster
+            # padre
           ];
         };
       }
