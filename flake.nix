@@ -7,17 +7,21 @@
         path = ./crypto;
         description = "Cryptanalysis environment";
       };
-      hardware = {
-        path = ./reverse;
-        description = "Hardware hacking environment";
-      };
       forensic = {
         path = ./forensic;
         description = "Forensic environment";
       };
+      hardware = {
+        path = ./reverse;
+        description = "Hardware hacking environment";
+      };
       network = {
         path = ./network;
         description = "Network hacking environment";
+      };
+      osint = {
+        path = ./osint;
+        description = "OSINT environment";
       };
       pwn = {
         path = ./pwn;
@@ -34,10 +38,6 @@
       web = {
         path = ./web;
         description = "Web hacking environment";
-      };
-      osint = {
-        path = ./osint;
-        description = "OSINT environment";
       };
     };
   };
