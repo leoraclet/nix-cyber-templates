@@ -23,6 +23,10 @@
         path = ./osint;
         description = "OSINT environment";
       };
+      pentest = {
+        path = ./pentest;
+        description = "Pentest environment";
+      };
       pwn = {
         path = ./pwn;
         description = "Binary exploitation environment";
