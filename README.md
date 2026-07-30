@@ -43,7 +43,7 @@ Once your preferred template has been initialized, you can use the provided shel
 Each template includes two files:
 
 - **`flake.nix`** - Defines the environment dependencies and configuration.
-- **`.envrc`** - Automatically loads the development environment when using **direnv**.
+- **`.envrc`** - Automatically loads the development environment when using [**direnv**](https://direnv.net/).
 
 ## Template contents
 
