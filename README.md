@@ -38,6 +38,13 @@ Once your preferred template has been initialized, you can use the provided shel
 | *Steganalysis*           | [`stegano`](./stegano/)       | `nix flake init -t github:leoraclet/nix-cyber-templates#stegano`  |
 | *Web*                    | [`web`](./web/)               | `nix flake init -t github:leoraclet/nix-cyber-templates#web`      |
 
+### Structure
+
+Each template includes two files:
+
+- **`flake.nix`** - Defines the environment dependencies and configuration.
+- **`.envrc`** - Automatically loads the development environment when using **direnv**.
+
 ## Template contents
 
 The sections below list what each template includes. In all cases, you're free to add and remove packages as you see fit; the templates are just boilerplate.
