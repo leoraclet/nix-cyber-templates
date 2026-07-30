@@ -247,3 +247,4 @@ Based on :
 
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates)
 - [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix)
+- [NixOS/templates](https://github.com/NixOS/templates)
